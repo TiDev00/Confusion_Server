@@ -2,13 +2,10 @@
 
 Welcome to the Assignments Repository for Coursera's Server-side Development with NodeJS, Express, and MongoDB course.
 
-## Course Information
-
-- Course Link: [Server-side Development with NodeJS, Express, and MongoDB](https://www.coursera.org/learn/server-side-nodejs)
 
 ## About this Repository
 
-This repository contains assignments for the course, organized into their respective directories. You can find detailed assignment instructions in the PDF files located within each directory under the actual project folder.
+This repository contains assignments for the course, organized into their respective directories.
 
 ## Getting Started
 
